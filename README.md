@@ -79,7 +79,7 @@ As the sole developer, you're welcome to make changes, improvements, and innovat
 Got questions or feedback? Here’s how to get in touch:
 
 - **Open an Issue**: [Open an issue](https://github.com/NandiniTandon21/socrates) on GitHub if you encounter problems or have suggestions.
-- **Direct Contact**: You can reach out to me directly through [email](mailto:nandini.tandon.21@gmail.com).
+- **Direct Contact**: You can reach out to me directly through [Email me](mailto:nandini.tandon.21@gmail.com)
 
 ## 💬 Stay Connected
 
