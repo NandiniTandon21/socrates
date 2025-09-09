@@ -25,8 +25,8 @@ type Props = {
 
 const MCQ = ({ game }: Props) => {
   const [questionIndex, setQuestionIndex] = React.useState(0);
-  //   const [correctAnswers, setCorrectAnswers] = React.useState<number>(0);
-  //   const [wrongAnswers, setWrongAnswers] = React.useState<number>(0);
+  //  const [correctAnswers, setCorrectAnswers] = React.useState<number>(0);
+  //  const [wrongAnswers, setWrongAnswers] = React.useState<number>(0);
   const [hasEnded, setHasEnded] = React.useState(false);
   const [stats, setStats] = React.useState({
     correct_answers: 0,
